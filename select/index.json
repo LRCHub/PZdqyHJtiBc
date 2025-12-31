@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チープなプロパティ",
+  "base_artist": "フロクロ",
+  "createdAt": "2025-12-31T11:48:06.715434Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チープなプロパティ",
+      "artist": "フロクロ",
+      "has_synced": false,
+      "path": "select/pl_01_チープなプロパティ_フロクロ.txt"
+    }
+  ]
+}
